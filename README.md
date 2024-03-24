@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Fractus: Marketplace of fractionalized nfts using DN404 on the scroll network
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic  use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Run the following command to install the dependencies:
 
